@@ -1,4 +1,4 @@
-# Object-Sorting Robotic Arm
+# SortBotArm-5D: Vision-Guided 5 DoF Object Sorting Robotic Arm
 
 An automated, vision-guided robotic arm that picks up blocks and sorts them into designated locations based on their **color** (Red or Blue) and **size** (Small or Big).
 
